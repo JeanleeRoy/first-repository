@@ -1,3 +1,2 @@
 #Prueba
-
-Proyecto de prueba con Git
+Este es un proyecto de prueba
